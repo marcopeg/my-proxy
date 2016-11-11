@@ -1,0 +1,1 @@
+humble up -d --build

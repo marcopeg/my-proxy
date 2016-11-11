@@ -1,2 +1,3 @@
 # my-proxy
-Manual NGiNX proxy, waiting for HumbleServer to become reality
+Reverse NGiNX proxy server to my Humble apps.  
+Waiting for HumbleServer to become reality.
